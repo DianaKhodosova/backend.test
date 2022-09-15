@@ -1,5 +1,5 @@
 package com.geekbrains.db.dao;
-
+//1
 import com.geekbrains.db.model.Categories;
 import com.geekbrains.db.model.CategoriesExample;
 import java.util.List;

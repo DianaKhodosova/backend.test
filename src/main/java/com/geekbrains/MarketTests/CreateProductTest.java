@@ -89,6 +89,7 @@ public class CreateProductTest {
 
     }
 
+
     @AfterEach
     void tearDown () {
         MyBatisDbService.getCategoriesMapper().deleteByPrimaryKey(id);

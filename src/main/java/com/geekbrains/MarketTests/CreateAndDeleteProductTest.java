@@ -41,6 +41,8 @@ public class CreateAndDeleteProductTest {
     }
 
 
+
+
     @AfterEach
     void tearDown() throws IOException {
         Response<ResponseBody> responseDeleteProduct = miniMarketService.deleteProduct(id).execute();
