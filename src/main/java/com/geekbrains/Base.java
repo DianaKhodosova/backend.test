@@ -1,4 +1,4 @@
-package com.gb;
+package com.geekbrains;
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.builder.ResponseSpecBuilder;

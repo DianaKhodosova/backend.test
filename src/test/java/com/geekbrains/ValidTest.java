@@ -1,6 +1,5 @@
-package com.gb;
+package com.geekbrains;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 

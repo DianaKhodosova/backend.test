@@ -1,4 +1,4 @@
-package com.gb.Retrofit;
+package com.geekbrains.MarketTests;
 
 import MyBatis.db.dao.CategoriesMapper;
 import MyBatis.db.dao.ProductsMapper;

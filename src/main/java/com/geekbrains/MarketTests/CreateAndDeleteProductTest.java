@@ -1,8 +1,7 @@
-package com.gb.Retrofit;
+package com.geekbrains.MarketTests;
 
 import api.MiniMarketService;
 import api.RetrofitUtils;
-import com.gb.MiniMarketService;
 import market.ProductDto;
 import okhttp3.ResponseBody;
 import org.hamcrest.CoreMatchers;

@@ -1,6 +1,5 @@
-package com.gb;
+package com.geekbrains;
 import io.restassured.RestAssured;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.core.Is.is;

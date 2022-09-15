@@ -1,4 +1,4 @@
-package com.gb;
+package com.geekbrains;
 
 import MyBatis.db.dao.CategoriesMapper;
 import MyBatis.db.dao.ProductsMapper;

@@ -1,4 +1,4 @@
-package com.gb.Retrofit;
+package com.geekbrains.Retrofit;
 
 import api.MiniMarketService;
 import api.RetrofitUtils;

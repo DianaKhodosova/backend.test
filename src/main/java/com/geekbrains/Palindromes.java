@@ -1,4 +1,4 @@
-package com.gb;
+package com.geekbrains;
 
 
 import java.util.Locale;
