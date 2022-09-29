@@ -1,4 +1,4 @@
-package com.gb;
+package com.geekbrains;
 
 import java.util.Locale;
 
@@ -26,4 +26,5 @@ public class Palindrome2 {
             System.out.println("Not a palindrome!");
         }
     }
+
 }
